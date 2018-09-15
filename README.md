@@ -1,1 +1,1 @@
-# WBCD_DIAMOND-CHALLENGE2
+# 中国深圳高中生，钻石挑战赛，WBCD小组项目在线管理。
